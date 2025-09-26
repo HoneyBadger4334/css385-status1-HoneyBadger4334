@@ -1,0 +1,3 @@
+Minimum one paragraph capturing your brainstorm of a game you want to build for this class.  Include as many details as you can think of.
+
+My idea is to create a two player 2D dueling platform game. Players must continuously climb platforms while also fighting each other with weapons they find on the spawning platforms. The objective is to win by one of two methods: by out climbing your opponent and forcing them to fall off the bottom of the screen, or by using various powerups and weapons that spawn on the platforms to eliminate your opponent. This allows for great competitiveness as the players have to focus on both climbing to higher platforms and eliminating the opponent.

@@ -1,0 +1,3 @@
+Minimum one paragraph summary of inspiration you're drawing from to build your game
+
+My inspiration came from a game called Doodle Jump. I played this game in my childhood, and the aspect I love most is that you have to continuously get to a higher platform without falling off. The game gets more difficult as long as the player is alive, allowing for endless survivable gameplay. Another aspect I took inspiration from is the power-up abilities, which make for more fun and unique gameplay while also helping the player achieve a higher score.
